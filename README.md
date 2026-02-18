@@ -15,3 +15,4 @@ I’m a Solutions Architect and PLM Consultant. My last role was CTO at xLM Euro
 ---
 [![](https://visitcount.itsvg.in/api?id=maverick-ali&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
